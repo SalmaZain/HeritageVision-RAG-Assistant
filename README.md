@@ -130,5 +130,3 @@ The LLM generates responses using:
 - JSON-based heritage knowledge documents
 
 ---
-
-# Project Structure
