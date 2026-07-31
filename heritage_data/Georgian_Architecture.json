@@ -1,0 +1,67 @@
+{
+    "title": "Georgian Architecture",
+    "source_references": [
+        {
+            "name": "Encyclopaedia Britannica - Georgian Architecture",
+            "url": "https://www.britannica.com/art/Georgian-architecture"
+        },
+        {
+            "name": "Historic England - Georgian Buildings",
+            "url": "https://historicengland.org.uk/"
+        },
+        {
+            "name": "The Georgian Group",
+            "url": "https://georgiangroup.org.uk/"
+        }
+    ],
+    "sections": [
+        {
+            "topic": "Introduction to Georgian Architecture",
+            "content": "Georgian architecture refers to the architectural style that became dominant in Britain during the reigns of the four Hanoverian monarchs named George, from 1714 to 1830. The style is recognised for its emphasis on symmetry, proportion, balance, and classical influences derived from ancient Greek and Roman architecture. Georgian architecture was widely used for houses, terraces, country estates, public buildings, and urban developments. It remains one of the most significant architectural styles in Britain's historic towns and cities."
+        },
+        {
+            "topic": "Historical Background",
+            "content": "Georgian architecture developed during a period of major economic and social growth in Britain. Expanding trade, increasing urban populations, and improvements in city planning resulted in the construction of new residential areas and public spaces. Architects were influenced by classical architectural principles that promoted order, mathematical proportion, and harmony. Pattern books and architectural publications helped spread Georgian design ideas throughout Britain. The style continued to influence later Georgian Revival architecture."
+        },
+        {
+            "topic": "Architectural Characteristics",
+            "content": "Georgian architecture is identified by its formal and balanced appearance. Common features include symmetrical facades, evenly spaced windows, central entrances, brick or stone construction, sash windows, decorative door surrounds, classical columns, and simple roof designs. Georgian buildings generally avoid excessive decoration and instead focus on proportion, repetition, and elegant simplicity."
+        },
+        {
+            "topic": "Symmetry and Proportion",
+            "content": "Symmetry is one of the most important principles of Georgian architecture. Buildings were carefully designed with balanced arrangements of windows, doors, and architectural elements. Classical ideas of proportion influenced the size and relationship between different parts of a building. This created buildings with a controlled and harmonious appearance."
+        },
+        {
+            "topic": "Sash Windows",
+            "content": "Sash windows are one of the most recognisable features of Georgian buildings. These windows consist of movable panels that slide vertically within the frame. Georgian architects commonly arranged sash windows in regular patterns across building fronts to maintain symmetry. They provided natural light and ventilation while contributing to the elegant appearance of Georgian facades."
+        },
+        {
+            "topic": "Brick and Stone Construction",
+            "content": "Brick became a widely used material during the Georgian period because it was durable, practical, and suitable for large-scale building projects. Red brick and brown brick were commonly used in residential terraces and townhouses. Stone was often used for important buildings and decorative details such as entrances, columns, and window surrounds."
+        },
+        {
+            "topic": "Classical Influences",
+            "content": "Georgian architects were strongly influenced by classical Greek and Roman architecture. Buildings often incorporated features such as columns, pilasters, pediments, and decorative mouldings. These elements reflected classical ideas of order, balance, and proportion that were highly valued during the period."
+        },
+        {
+            "topic": "Terraced Houses and Urban Development",
+            "content": "Terraced housing became an important feature of Georgian urban development. Rows of connected houses were designed with consistent proportions and repeated architectural patterns, creating organised streetscapes. Large-scale developments such as Bath's Royal Crescent and Edinburgh's New Town demonstrate how Georgian principles were applied to entire neighbourhoods."
+        },
+        {
+            "topic": "Computer Vision Identification Features",
+            "content": "Georgian architecture can be identified from images through features such as symmetrical building fronts, repeated sash windows, brick or stone facades, central doorways, classical columns, decorative entrances, and regular geometric layouts. Compared with Gothic architecture, Georgian buildings usually show stronger horizontal balance, simpler decoration, and greater emphasis on symmetry."
+        },
+        {
+            "topic": "Famous Examples of Georgian Architecture",
+            "content": "Important examples of Georgian architecture include the Royal Crescent in Bath, Edinburgh New Town, Bedford Square in London, and many Georgian townhouses throughout Britain. The Royal Crescent demonstrates the use of classical proportions and curved terrace design, while Edinburgh New Town represents large-scale Georgian urban planning."
+        },
+        {
+            "topic": "Heritage Importance",
+            "content": "Georgian architecture represents an important period in Britain's architectural and urban history. It reflects changing ideas about city planning, residential design, and classical aesthetics. Many Georgian buildings and neighbourhoods are protected heritage areas because they preserve historic streetscapes and demonstrate the architectural values of the 18th and early 19th centuries."
+        },
+        {
+            "topic": "Conservation Challenges",
+            "content": "Conservation of Georgian buildings focuses on protecting original materials and maintaining historic features. Common challenges include deterioration of brick and stone, damage to sash windows, moisture problems, pollution effects, and inappropriate modern changes. Conservation methods include repairing traditional materials, maintaining original architectural details, and following heritage protection guidelines."
+        }
+    ]
+}

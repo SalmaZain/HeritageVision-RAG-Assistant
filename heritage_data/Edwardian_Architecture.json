@@ -1,0 +1,63 @@
+{
+    "title": "Edwardian Architecture",
+    "source_references": [
+        {
+            "name": "Historic England - Edwardian Architecture",
+            "url": "https://historicengland.org.uk/"
+        },
+        {
+            "name": "Encyclopaedia Britannica - Edwardian Period",
+            "url": "https://www.britannica.com/"
+        },
+        {
+            "name": "Victoria and Albert Museum - British Design History",
+            "url": "https://www.vam.ac.uk/"
+        }
+    ],
+    "sections": [
+        {
+            "topic": "Introduction to Edwardian Architecture",
+            "content": "Edwardian architecture refers to the architectural style associated with the reign of King Edward VII from 1901 to 1910, although the influence of the style continued into the early 20th century. The style developed after the Victorian period and introduced lighter, more spacious, and less heavily decorated designs compared with Victorian architecture. Edwardian buildings are commonly found in residential areas, suburban developments, public buildings, and civic structures across Britain."
+        },
+        {
+            "topic": "Historical Background",
+            "content": "Edwardian architecture emerged during a period of social and technological change in Britain. Improvements in transport, industrial development, and suburban expansion encouraged the construction of new housing areas outside major cities. Architects moved away from the complex decorative styles of the Victorian era and adopted simpler designs influenced by Arts and Crafts, Queen Anne Revival, and traditional English architecture. The period reflected changing lifestyles, with greater emphasis on comfort, space, and connection with gardens."
+        },
+        {
+            "topic": "Architectural Characteristics",
+            "content": "Edwardian architecture is recognised for its combination of traditional design elements with modern approaches. Common characteristics include red brick walls, large windows, bay windows, wide entrances, porches, decorative timber details, steep roofs, spacious interiors, and gardens. Compared with Victorian buildings, Edwardian designs generally appear less crowded with decoration and often create a lighter and more relaxed appearance."
+        },
+        {
+            "topic": "Residential Design",
+            "content": "Edwardian residential architecture became especially popular in expanding suburban areas. Houses were often larger than earlier Victorian homes and were designed for increased comfort. Common features included front gardens, wider plots, bay windows, porches, and larger rooms. The design reflected changing expectations of domestic life during the early 20th century."
+        },
+        {
+            "topic": "Influence of Arts and Crafts Movement",
+            "content": "The Arts and Crafts movement influenced many Edwardian buildings by promoting traditional craftsmanship, natural materials, and simple functional design. Architects used materials such as brick, timber, and stone while focusing on quality construction and harmony with the surrounding environment. This influence contributed to the distinctive character of many Edwardian homes and public buildings."
+        },
+        {
+            "topic": "Materials Used",
+            "content": "Common materials used in Edwardian architecture include red brick, stone, timber, tiles, and slate. Red brick was particularly popular for residential buildings because it provided durability and a distinctive appearance. Decorative timber features, tiled roofs, and stained glass were also used to add character while maintaining a practical design approach."
+        },
+        {
+            "topic": "Windows and Decorative Features",
+            "content": "Edwardian buildings commonly feature large windows designed to increase natural light inside buildings. Bay windows, sash windows, and casement windows were frequently used. Decorative features such as timber framing, patterned brickwork, stained glass, and decorative entrances were added while maintaining a simpler appearance compared with Victorian architecture."
+        },
+        {
+            "topic": "Computer Vision Identification Features",
+            "content": "Edwardian architecture can be identified from images through features such as red brick facades, large bay windows, front porches, steep rooflines, decorative timber elements, spacious suburban layouts, gardens, and lighter decorative details. These visual characteristics can help a computer vision model distinguish Edwardian buildings from Victorian, Georgian, or Tudor Revival styles."
+        },
+        {
+            "topic": "Famous Examples of Edwardian Architecture",
+            "content": "Edwardian architecture is widely represented through residential neighbourhoods and public buildings across Britain. Examples include Edwardian suburban housing developments, civic buildings, and institutions constructed during the early 20th century. Many Edwardian buildings remain important because they represent the transition between traditional Victorian design and modern architectural approaches."
+        },
+        {
+            "topic": "Heritage Importance",
+            "content": "Edwardian architecture is an important part of Britain's built heritage because it reflects major social changes during the early 20th century. Edwardian buildings demonstrate changing ideas about housing, urban development, and domestic life. Many Edwardian neighbourhoods remain valued for their architectural character, craftsmanship, and contribution to historic townscapes."
+        },
+        {
+            "topic": "Conservation Challenges",
+            "content": "Conservation of Edwardian buildings involves protecting original materials and maintaining historic features. Common challenges include deterioration of brickwork, damage to timber elements, replacement of original windows, moisture problems, and inappropriate modern alterations. Conservation approaches focus on repairing original features and maintaining the architectural character of the buildings."
+        }
+    ]
+}

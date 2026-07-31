@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.env
+venv/
+pyspark_env/
+
+.ipynb_checkpoints/
+
+data/
+*.zip
+
+*.h5
+*.keras
+
+.streamlit/

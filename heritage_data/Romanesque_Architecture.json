@@ -1,0 +1,71 @@
+{
+    "title": "Romanesque Architecture",
+    "source_references": [
+        {
+            "name": "Encyclopaedia Britannica - Romanesque Architecture",
+            "url": "https://www.britannica.com/art/Romanesque-architecture"
+        },
+        {
+            "name": "Historic England - Norman Architecture",
+            "url": "https://historicengland.org.uk/"
+        },
+        {
+            "name": "UNESCO World Heritage Centre",
+            "url": "https://whc.unesco.org/"
+        }
+    ],
+    "sections": [
+        {
+            "topic": "Introduction to Romanesque Architecture",
+            "content": "Romanesque architecture is a medieval architectural style that developed in Europe between approximately the 10th and 12th centuries. The style is recognised for its strong, solid construction, rounded arches, thick walls, large stone structures, and simple decorative features. In Britain, Romanesque architecture was introduced after the Norman Conquest of 1066 and became widely used for castles, monasteries, churches, and cathedrals."
+        },
+        {
+            "topic": "Historical Background",
+            "content": "Romanesque architecture developed from earlier Roman building traditions and medieval construction methods. The style became widespread across Europe as religious institutions expanded and rulers constructed churches, monasteries, and defensive structures. In England, the Norman rulers introduced Romanesque design after 1066, leading to the construction of large stone buildings that demonstrated political power and religious authority. Many Norman buildings later influenced the development of Gothic architecture."
+        },
+        {
+            "topic": "Romanesque Architecture in Britain",
+            "content": "In Britain, Romanesque architecture is often associated with the Norman period between the late 11th and 12th centuries. Norman builders constructed large churches, cathedrals, and castles using thick stone walls and rounded arches. Important examples include Durham Cathedral, Norwich Cathedral, and the White Tower of the Tower of London. These buildings demonstrate the strength and durability of Norman construction techniques."
+        },
+        {
+            "topic": "Architectural Characteristics",
+            "content": "Romanesque architecture is identified by its heavy and powerful appearance. Common characteristics include rounded arches, thick stone walls, large pillars, small windows, sturdy towers, barrel vaults, decorative stone carvings, and symmetrical layouts. Compared with Gothic architecture, Romanesque buildings generally have fewer large windows and create darker, more solid interiors."
+        },
+        {
+            "topic": "Rounded Arches",
+            "content": "Rounded arches are one of the most recognisable features of Romanesque architecture. These arches were influenced by Roman engineering traditions and were commonly used for doors, windows, and arcades. Their strong structural form helped support heavy stone construction and contributed to the solid appearance of Romanesque buildings."
+        },
+        {
+            "topic": "Thick Walls and Heavy Construction",
+            "content": "Romanesque buildings were constructed with extremely thick stone walls to provide stability and support heavy roofs. The massive construction style helped churches, monasteries, and castles withstand environmental conditions and provide long-lasting structures. The strength of Romanesque buildings reflects the engineering priorities of the medieval period."
+        },
+        {
+            "topic": "Barrel Vaults and Stone Roofs",
+            "content": "Romanesque architects commonly used barrel vaults to create stone ceilings over large interior spaces. These vaults transferred weight through the walls, requiring strong structural support. Although effective, the heavy construction limited the size of windows compared with later Gothic buildings."
+        },
+        {
+            "topic": "Towers and Defensive Features",
+            "content": "Many Romanesque buildings included large towers because of their symbolic and defensive importance. Churches used towers as visual landmarks, while castles used strong stone towers for protection. The White Tower of the Tower of London is an example of Romanesque military architecture introduced by the Normans."
+        },
+        {
+            "topic": "Materials Used",
+            "content": "Romanesque buildings were mainly constructed using locally available stone. Limestone and sandstone were commonly used because they provided strength and could be shaped for architectural details. Timber was also used for roof structures and internal elements, while carved stone decorations were used to enhance important areas of buildings."
+        },
+        {
+            "topic": "Computer Vision Identification Features",
+            "content": "Romanesque architecture can be identified from images through features such as rounded arches, thick stone walls, small windows, massive columns, sturdy towers, symmetrical layouts, and fortress-like appearances. These characteristics help distinguish Romanesque buildings from Gothic architecture, which usually contains pointed arches, larger windows, and stronger vertical emphasis."
+        },
+        {
+            "topic": "Famous Examples of Romanesque Architecture",
+            "content": "Important examples of Romanesque architecture in Britain include Durham Cathedral, Norwich Cathedral, Ely Cathedral, and the White Tower of the Tower of London. Durham Cathedral is particularly significant because it combines Romanesque structural features with later Gothic additions. These buildings represent the engineering achievements and cultural importance of the Norman period."
+        },
+        {
+            "topic": "Heritage Importance",
+            "content": "Romanesque architecture represents an important stage in the development of medieval European and British architecture. It introduced large-scale stone construction techniques and established building methods that influenced later Gothic architecture. Romanesque churches, cathedrals, and castles remain important heritage sites because they preserve evidence of medieval engineering, religion, and society."
+        },
+        {
+            "topic": "Conservation Challenges",
+            "content": "Romanesque buildings require careful conservation due to their age and exposure to environmental conditions. Common issues include stone erosion, moisture damage, structural movement, biological growth, and deterioration of carved details. Conservation programmes use regular inspections, traditional repair methods, and modern monitoring technologies to protect these historic structures."
+        }
+    ]
+}
